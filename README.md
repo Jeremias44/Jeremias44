@@ -28,7 +28,7 @@ Soy un apasionado por la ciencia de datos y el análisis de datos con experienci
 
 ### 🌱 Aprendizaje Actual
 
-Actualmente, estoy inmerso en un viaje de aprendizaje constante. Mis habilidades técnicas incluyen Python avanzado (Pandas, Matplotlib, Seaborn, Numpy, Scikit Learn, Pytorch: 📈🌲🤖📊), SQL, DAX y M. También tengo experiencia en el ecosistema Big Data, incluyendo herramientas como MySQL, Hadoop, Hive y Docker. Mis últimos proyectos, vinculados a sistemas predictivos, Deep Learning y Grandes Modelos de Lenguaje, me hicieron conocer a fondo los llm, las bases de datos vectoriales (FAISS, Chroma, Pinecone), y los asombrosos y apasionantes detalles del Procesamiento de Lenguaje Natural.
+Actualmente, estoy inmerso en un viaje de aprendizaje constante. Mis habilidades técnicas incluyen Python avanzado (Pandas, Matplotlib, Seaborn, Numpy, Scikit Learn, Pytorch: 📈🌲🤖📊), SQL, DAX y M. También tengo experiencia en el ecosistema Big Data, incluyendo herramientas como MySQL, Hadoop, Hive y Docker. Mis últimos proyectos, vinculados a sistemas predictivos, Deep Learning y Grandes Modelos de Lenguaje, me hicieron conocer a fondo los llm, las bases de datos vectoriales (FAISS, Chroma, Pinecone), y los asombrosos y apasionantes detalles del Procesamiento de Lenguaje Natural además de herramientas como TensorFlow y Keras.
 
 ### 💞️ Colaboración
 
